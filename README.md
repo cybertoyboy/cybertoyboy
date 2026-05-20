@@ -20,8 +20,13 @@ Python
 
 # VIBEEEEEEEEEEEEEEEE
 mood:        soft chaotic
+
 runtime:     ADHD
+
 theme:       cute terminal gremlin
+
 debug mode:  always on
+
 sleep:       maybe later
+
 commits:     emotionally honest
