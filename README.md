@@ -1,6 +1,6 @@
 <div align="center">
 
-# hiiii, i'm Murtaza ✨
+# hiiii ✨
 
 **soft chaos, hard commits**
 
