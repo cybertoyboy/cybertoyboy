@@ -74,6 +74,8 @@ I want to learn by building things slowly, cutely, chaotically, and honestly.
 The goal is not to look smart.  
 The goal is to make the chaos understandable.
 
+*Human rights are not mere politics* 
+- Typelevel 💓
 ---
 
 <div align="center">
